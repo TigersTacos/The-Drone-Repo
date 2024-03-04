@@ -1,0 +1,12 @@
+print('Hello Benjamin. Welcome on. What would you like to use?')
+print('Reminder: please use correct input. Example: Option 1.')
+user_input = input('Option 1: Open MAOST V0.01 Beta \n Option 2: Info and Help Page')
+if user_input == ('Option 1'):
+    print('Very well. MAOST V0.01 Beta is now opening. Reminder; it is in an early Beta. Most features will not be available.')
+if user_input == ('Option 2'):
+    print('Info and Help Page is now opening.')
+    print('MAOST V0.01 is an experimental program to implement AI Facial Recognition into a drone observation system.')
+    print('It was created by Benjamin (thats me!) Whitten with the assistance of Mr. V\'Soske, Mr. Scott, and Hudson.')
+    print('Special thanks to Victor (Turrnut) for the invaluable assistance with my terrible coding!')
+
+#Yes, this does include names, but ignore them. I'm Benjamin by the way.
